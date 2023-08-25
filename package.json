@@ -1,9 +1,9 @@
 {
   "name": "@orkans/prettier-config",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "My personal Prettier config",
-  "main": "index.json",
   "repository": "git@github.com:orkan/prettier-config.git",
   "author": "Orkan <orkans+prettier-config@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "main": "index.json"
 }
