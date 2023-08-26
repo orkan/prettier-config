@@ -1,4 +1,4 @@
-# @orkans/prettier-config `v1.1.0`
+# @orkans/prettier-config `v2.0.0`
 
 My personal [Prettier](https://prettier.io) config.
 
