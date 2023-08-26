@@ -1,4 +1,4 @@
-# @orkans/prettier-config `v1.0.0`
+# @orkans/prettier-config `v1.1.0`
 
 My personal [Prettier](https://prettier.io) config.
 
@@ -26,7 +26,10 @@ If you don’t want to use `package.json`, you can use prettier config file to e
 ```jsonc
 "@orkans/prettier-config"
 ```
-You can mix default options with your own in `.prettierrc.js`:
+
+To merge with project specific options:
+
+**`.prettierrc.js`**:
 ```js
 module.exports = {
   ...require('@orkans/prettier-config'),
